@@ -65,7 +65,7 @@ const Login = ({ wallet }) => {
           alt=""
         ></img>
         <h1 className=" text-[#4263EB] font-bold md:text-3xl text-2xl">
-          Votechain
+          Voting System
         </h1>
       </div>
 
