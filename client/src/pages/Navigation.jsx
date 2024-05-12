@@ -11,7 +11,7 @@ const Navigation = () => {
 
         <div className="flex space-x-2 items-center mb-4" >
            <img className="h-[80px] mb-2  " src="https://voting-dapp.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fimage%2Fpublic%2Fsvg%2Flogo.b954829cff7fddca2bb11cc74a1876a5.svg&w=384&q=75" alt=""></img>
-           <p className=" text-[#4e6dec] md:text-2xl font-semibold ">Votechain</p>
+           <p className=" text-[#4e6dec] md:text-2xl font-semibold ">Voting System</p>
         </div>
 
         <div className="grid grid-rows-5 grid-flow-col gap-4">
