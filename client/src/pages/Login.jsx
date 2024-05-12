@@ -42,11 +42,11 @@ const Login = ({ wallet }) => {
 
     <div className="grid grid-rows-2 grid-flow-col w-[50%] ">
       <div>
-        <h1 className=" text-[#4263EB] md:text-4xl  ">Voting Dapp</h1>
+        <h1 className=" text-[#4263EB] md:text-4xl  ">Decentralized Voting System</h1>
       </div>
       <div className="bg-yellow md:w-[90%] text-left ">
         <p className="font-extralight dark:text-white">
-          A deccentralized Polling system for electing candidates in the
+          A Decentralized Voting System for electing candidates in the
           election, build complelety using{" "}
           <span className="font-bold ">Blockchain Technology</span>.{" "}
         </p>
